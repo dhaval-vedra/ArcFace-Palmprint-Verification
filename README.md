@@ -5,7 +5,7 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![Palmprint System](images/1792727148163.jpg)
+![Palmprint System](images/1792727148163.png)
 
 A high-performance, end-to-end Contactless Palmprint Verification pipeline utilizing **ResNet-18** as the backbone and **Additive Angular Margin Loss (ArcFace)** for robust feature extraction. This model is specifically fine-tuned and evaluated on the **Tongji Contactless Palmprint Dataset** with **CLAHE** (Contrast Limited Adaptive Histogram Equalization) enhancement.
 
