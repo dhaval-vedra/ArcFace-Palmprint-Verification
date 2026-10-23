@@ -14,7 +14,8 @@ Our model achieves state-of-the-art results on the test set:
 *   **Optimal Decision Threshold:** `0.2773`
 
 *(Insert your ROC Curve image here)*
-<!-- Example: ![ROC Curve](outputs/roc_curve.png) -->
+![ROC Curve](outputs/roc_curve.png)
+
 
 ## ✨ Key Features
 *   **Backbone:** ResNet-18 (Pretrained on ImageNet).
