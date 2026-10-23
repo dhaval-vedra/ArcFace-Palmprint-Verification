@@ -14,7 +14,7 @@ Our model achieves state-of-the-art results on the test set:
 *   **Optimal Decision Threshold:** `0.2773`
 
 *(Insert your ROC Curve image here)*
-![ROC Curve](outputs/roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 
 
 ## ✨ Key Features
