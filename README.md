@@ -13,7 +13,7 @@ Our model achieves state-of-the-art results on the test set:
 *   **EER (Equal Error Rate):** `1.60%`
 *   **Optimal Decision Threshold:** `0.2773`
 
-*(Insert your ROC Curve image here)*
+
 ![ROC Curve](images/roc_curve.png)
 
 
