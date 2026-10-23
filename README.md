@@ -29,7 +29,7 @@ Our model achieves state-of-the-art results on the test set:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ArcFace-Palmprint-Verification.git
+   git clone https://github.com/dhaval-vedra/ArcFace-Palmprint-Verification.git
    cd ArcFace-Palmprint-Verification
 ```
 
@@ -69,8 +69,8 @@ else:
 📁 Repository Structure
 
 ```text
-├── notebooks/               # Jupyter Notebooks for training & evaluation
-├── outputs/                 # Saved ROC curves and threshold.json
+├── src/                     # Jupyter Notebooks for training & evaluation
+├── images/                  # Saved ROC curves and threshold.json
 ├── checkpoints/             # Saved model weights (.pth)
 ├── requirements.txt         # Python dependencies
 ├── LICENSE                  # MIT License
